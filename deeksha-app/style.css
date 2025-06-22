@@ -1,0 +1,25 @@
+body {
+  font-family: 'Comic Sans MS', cursive;
+  background: #ffe4ec;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #ff66a3;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  background: pink;
+  border: 2px solid #fff;
+  margin: 10px auto;
+}
+
+.fav-img {
+  width: 200px;
+  border-radius: 12px;
+  margin: 10px;
+}
